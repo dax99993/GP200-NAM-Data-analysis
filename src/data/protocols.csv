@@ -1,0 +1,2 @@
+NAM_filename, Effect_module, Snaptone_position, midi_file
+APP-6505Plus-MidForward-Gain-01.nam, DST, 1, dst1_nam_capture.py
